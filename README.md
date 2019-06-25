@@ -1,0 +1,2 @@
+# alaskan-malamute
+Favorite Animal
